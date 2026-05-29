@@ -1,78 +1,79 @@
-<div align="center">
+<h1 align="center">⚡ Rafael Alves ⚡</h1>
 
-# ⚡ Rafael Alves ⚡
-
-### 💻 Back-end | Front-end | Game Developer
-
-
----
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaaam019-a11y&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaam019-a11y&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
+<h3 align="center">
+💻 Backend Developer in Training | 🎮 Game Developer | 🚀 Technology Enthusiast
+</h3>
 
 ---
 
-<div align="center">
+## 👨‍💻 Sobre Mim
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaaam019-a11y&theme=radical&hide_border=true"/>
+🎓 Estudante de Jogos Digitais na FATEC Americana
 
-</div>
+💻 Estudando Java, Python, Backend e Desenvolvimento de Software
+
+🎮 Desenvolvendo projetos com Unity e GameMaker
+
+📚 Aprendendo constantemente novas tecnologias e boas práticas de programação
+
+🌎 Inglês Fluente (Leitura, Escrita e Conversação)
+
+🗾 Japonês Fluente em Conversação
 
 ---
 
 ## 🚀 Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,html,css,js,mysql,git,github,unity,vscode,idea" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,html,css,javascript,mysql,git,github,unity,vscode,idea" />
+</p>
 
 ---
 
-## 🌎 Idiomas
+## 📌 Atualmente Estudando
 
-🇧🇷 Português — Nativo
-
-🇺🇸 Inglês — Fluente
-
-🇯🇵 Japonês — Fluente em Conversação
+- ☕ Java
+- 🐍 Python
+- 🗄️ Banco de Dados
+- 🌐 Desenvolvimento Backend
+- 🎮 Unity
+- 🎮 GameMaker
+- 🔧 Git e GitHub
 
 ---
 
 ## 🎯 Objetivos
 
-🔥 Aprimorar Java e Desenvolvimento Back-end
+✅ Evoluir como Desenvolvedor Backend
 
-🔥 Desenvolver aplicações Front-end modernas
+✅ Construir projetos para portfólio
 
-🔥 Construir projetos profissionais para portfólio
+✅ Conquistar uma oportunidade na área de tecnologia
 
-🔥 Desenvolver jogos utilizando Unity
-
-🔥 Evoluir continuamente como desenvolvedor
+✅ Desenvolver jogos e aplicações profissionais
 
 ---
 
-## 📂 Projetos
+## 🏆 Projetos em Destaque
 
 📦 Sistema de Controle de Estoque em Java
 
-📒 Agenda de Contatos em Java
-
-🎮 Projeto Futebol Americano (Unity)
-
-🚀 Projeto Conjectura (TCC)
+🔗 https://github.com/rafaaam019-a11y/Sistema-Controle-Estoque-Java
 
 ---
 
-<div align="center">
+## 🎮 Curiosidades
 
-### ⚡ "Transformando ideias em código." ⚡
+🦇 Fã de Batman
 
-</div>
+⚡ Fã de Dragon Ball
+
+🎮 Apaixonado por Jogos Digitais
+
+🚀 Sempre buscando aprender algo novo
+
+---
+
+<p align="center">
+⭐ Obrigado por visitar meu perfil! ⭐
+</p>
