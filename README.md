@@ -1,24 +1,12 @@
-<h1 align="center">⚡ Rafael Alves ⚡</h1>
+## 📊 GitHub Stats
 
-<h3 align="center">
-💻 Backend Developer in Training | 🎮 Game Developer | 🚀 Technology Enthusiast
-</h3>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaaam019-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-## 👨‍💻 Sobre Mim
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaam019-a11y&layout=compact&theme=tokyonight&hide_border=true"/>
 
-🎓 Estudante de Jogos Digitais na FATEC Americana
-
-💻 Estudando Java, Python, Backend e Desenvolvimento de Software
-
-🎮 Desenvolvendo projetos com Unity e GameMaker
-
-📚 Aprendendo constantemente novas tecnologias e boas práticas de programação
-
-🌎 Inglês Fluente (Leitura, Escrita e Conversação)
-
-🗾 Japonês Fluente em Conversação
+</div>
 
 ---
 
@@ -34,23 +22,11 @@
 
 - ☕ Java
 - 🐍 Python
+- 🌐 Backend
 - 🗄️ Banco de Dados
-- 🌐 Desenvolvimento Backend
 - 🎮 Unity
 - 🎮 GameMaker
 - 🔧 Git e GitHub
-
----
-
-## 🎯 Objetivos
-
-✅ Evoluir como Desenvolvedor Backend
-
-✅ Construir projetos para portfólio
-
-✅ Conquistar uma oportunidade na área de tecnologia
-
-✅ Desenvolver jogos e aplicações profissionais
 
 ---
 
@@ -62,18 +38,20 @@
 
 ---
 
-## 🎮 Curiosidades
+## 🎯 Objetivos 2026
 
-🦇 Fã de Batman
+✅ Aprimorar Java e Python
 
-⚡ Fã de Dragon Ball
+✅ Construir um portfólio sólido
 
-🎮 Apaixonado por Jogos Digitais
+✅ Aprender Spring Boot
 
-🚀 Sempre buscando aprender algo novo
+✅ Desenvolver projetos Backend
+
+✅ Criar jogos utilizando Unity
 
 ---
 
 <p align="center">
-⭐ Obrigado por visitar meu perfil! ⭐
+<img src="https://komarev.com/ghpvc/?username=rafaaam019-a11y&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
