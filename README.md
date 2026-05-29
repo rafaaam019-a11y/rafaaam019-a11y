@@ -4,9 +4,6 @@
 
 ### 💻 Back-end | Front-end | Game Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Student;Frontend+Student;Unity+Game+Developer;Always+Learning+New+Technologies" />
-
-</div>
 
 ---
 
