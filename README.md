@@ -123,24 +123,24 @@ const rafael = {
 
 ---
 
-## 🔥 Repositórios que Todo Dev Deve Conhecer
+## 🔥 10 Repos Open Source que Estão Bombando
 
-> *Minha curadoria pessoal de repos open source que estão bombando e que uso como referência* 🚀
+> *Curadoria dos melhores repositórios gratuitos do GitHub que todo dev deveria conhecer* 🚀
 
 <div align="center">
 
-| ⭐ Repositório | 📌 Por que é incrível |
-|:---|:---|
-| [📦 Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Aprenda construindo do zero: banco de dados, shell, motor 3D, compilador... |
-| [🗺️ Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) | Trilhas atualizadas para Front-end, Back-end, DevOps, IA e mais |
-| [📚 Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Milhares de livros e cursos gratuitos em vários idiomas |
-| [🤖 Composio](https://github.com/ComposioHQ/composio) | Conecta agentes de IA a centenas de apps e APIs com facilidade |
-| [🎬 Remotion](https://github.com/remotion-dev/remotion) | Crie vídeos e animações programaticamente com React |
-| [🧠 FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) | API unificada para todos os provedores de IA com planos gratuitos |
-| [💾 claude-mem](https://github.com/thedotmack/claude-mem) | Memória persistente para agentes de IA — contexto entre sessões |
-| [🔍 REA](https://github.com/morluto/rea) | Engenharia reversa assistida por IA |
-| [🎭 Playwright](https://github.com/microsoft/playwright) | Automação e testes de navegador cross-browser da Microsoft |
-| [✨ Hallmark](https://github.com/Nutlope/hallmark) | Gere UIs modernas sem cara de IA — guidelines de design |
+| # | 🛠️ Repositório | 📌 O que faz |
+|:---:|:---|:---|
+| 1 | [🔍 REA](https://github.com/morluto/rea) + [🏗️ Craft Anything](https://github.com/storytold/craft-anything) | Reconstrói programas, sites e jogos com Claude Code ou Codex via IA |
+| 2 | [🎙️ VoiceStudio](https://github.com/debpalash/VoiceStudio) + [🎤 Voicebox](https://github.com/jamiepine/voicebox) | Clonagem de voz, dublagem e transcrição locais — alternativa grátis ao ElevenLabs |
+| 3 | [📺 CleanYourTV](https://github.com/Gathin23/cleanyourtv) + [🧹 TV Detox](https://github.com/Ansub/tv-detox) | Remove anúncios e apps de fábrica de Android TV e Google TV |
+| 4 | [🤖 FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) | 34 provedores de IA gratuitos em um único endpoint compatível com OpenAI |
+| 5 | [✨ Hallmark](https://github.com/Nutlope/hallmark) + [💎 Impeccable](https://github.com/pbakaus/impeccable) + [🎨 Taste Skill](https://github.com/Leonxlnx/taste-skill) | Skills de design para criar sites sem "cara de IA" |
+| 6 | [🎬 HyperFrames](https://github.com/heygen-com/hyperframes) + [🎥 Remotion](https://github.com/remotion-dev/remotion) | Vídeos e motion graphics criados programaticamente com código |
+| 7 | [✂️ OpenShorts](https://github.com/mutonby/openshorts) + [📝 Rescript](https://github.com/wassgha/rescript) | Alternativas grátis ao OpusClip e ao Descript para edição de vídeo |
+| 8 | [🧠 Claude-Mem](https://github.com/thedotmack/claude-mem) + [💾 AI Memory](https://github.com/akitaonrails/ai-memory) | Memória persistente compartilhada entre agentes de IA |
+| 9 | [🎙️ FluidVoice](https://github.com/altic-dev/FluidVoice) + [⌨️ Hex](https://github.com/anomalyco/hex) | Ditado por voz local cross-platform — alternativa ao Wispr Flow |
+| 10 | [🔒 Cloudflare Security Audit](https://github.com/cloudflare/security-audit-skill) | Auditoria de segurança para código gerado por IA |
 
 </div>
 
