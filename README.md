@@ -123,6 +123,29 @@ const rafael = {
 
 ---
 
+## 🔥 Repositórios que Todo Dev Deve Conhecer
+
+> *Minha curadoria pessoal de repos open source que estão bombando e que uso como referência* 🚀
+
+<div align="center">
+
+| ⭐ Repositório | 📌 Por que é incrível |
+|:---|:---|
+| [📦 Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Aprenda construindo do zero: banco de dados, shell, motor 3D, compilador... |
+| [🗺️ Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) | Trilhas atualizadas para Front-end, Back-end, DevOps, IA e mais |
+| [📚 Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Milhares de livros e cursos gratuitos em vários idiomas |
+| [🤖 Composio](https://github.com/ComposioHQ/composio) | Conecta agentes de IA a centenas de apps e APIs com facilidade |
+| [🎬 Remotion](https://github.com/remotion-dev/remotion) | Crie vídeos e animações programaticamente com React |
+| [🧠 FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) | API unificada para todos os provedores de IA com planos gratuitos |
+| [💾 claude-mem](https://github.com/thedotmack/claude-mem) | Memória persistente para agentes de IA — contexto entre sessões |
+| [🔍 REA](https://github.com/morluto/rea) | Engenharia reversa assistida por IA |
+| [🎭 Playwright](https://github.com/microsoft/playwright) | Automação e testes de navegador cross-browser da Microsoft |
+| [✨ Hallmark](https://github.com/Nutlope/hallmark) | Gere UIs modernas sem cara de IA — guidelines de design |
+
+</div>
+
+---
+
 ## 📬 Vamos nos conectar?
 
 <div align="center">
